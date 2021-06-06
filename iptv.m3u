@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Star_Jalsha#/media/File%3AStar_Jalsha_logo.jpg" ,Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" ,Star Jalsha HD
 http://103.205.133.21/hls/chsj.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" ,Zee Bangla HD
