@@ -278,11 +278,30 @@ http://103.81.104.118/hls/stream40.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Discover English
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Discover Hindi
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Animal Planet Hindi
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,sangeet bangla
+https://cutt.ly/QnPbkRn
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,sangeet bangla 2
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Dhoom Music
+https://cutt.ly/BnPv0s2
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,9xm
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,B4U Music
+https://cutt.ly/EnPbW9A
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Enter10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Discovery Turbo
+https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzU4MjUxMX19fV19&Signature=FxCqo-RpGVnos-OuuuhOttNmUoarVsgVBOvGs4vDc5yoX6nzviCauH1dSLPAheM5vQc-KCgUft0r-Wkim3VrLMh-BFKngZ-enVtpoJTp42ww4vHx1FQjyoyC1wnAd6MWF8UlI8oWzao2jqjwu9vCU4W3exttOstdXZ9eq60kHvSAR7P5VhNlatfeCAB-Ic-UkpHfOItn34aEvcohp5Nad84Ut1F1A4yKefdB97yuO2UdPG8j30zjFvsHX5MEjkS1puBlgP1WY1fwpxKgd1~AwrZXW8ZQVKl08FYb0yLNxRQXqHAmGhTzay7ybkKelZ5AKCqhV~Kt2i56xbyX0zaNQA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,DD Sports
+https://cutt.ly/hnPbKEq
 
 
 
