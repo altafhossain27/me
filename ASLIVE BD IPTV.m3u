@@ -83,12 +83,22 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony SIX HD
 http://180.210.191.2/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony SIX HD(2)
+http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD
 http://180.210.191.2/hls/stream40.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD(2)
+http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD
 http://180.210.191.2/hls/stream39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD(2)
+http://103.109.56.116/live/skyfeed1018/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD(3)
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD
 http://199.66.95.242/3/3093/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD(2)
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="SPORTS", PTV Sports
 http://180.210.191.2/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=2DsJ3WgX" group-title="SPORTS",Star Sports 1 HD
