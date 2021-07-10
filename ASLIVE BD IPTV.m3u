@@ -74,6 +74,8 @@ http://103.205.133.19/hls/sony8.m3u8
 http://180.210.191.2/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="INDIAN BANGLA",Jalsha Movies HD
 http://180.210.191.2/hls/stream27.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="INDIAN BANGLA", Sun Bangla
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 
 
 
