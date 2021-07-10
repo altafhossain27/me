@@ -235,8 +235,10 @@ http://180.210.191.2/hls/stream5.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="HINDI MOVIES",Radhe: Your Most Wanted Bhai (2021)
+http://mymoviebazar.net/Data/movies/bollywood/2021/Radhe%20(2021)/Radhe%20(2021)%20Hindi%201080p%20WEB-DL%20-MSub.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Mumbai Saga (2021)
+http://mymoviebazar.net/Data/movies/bollywood/2021/Mumbai%20Saga%20(2021)/Mumbai%20Saga%20(2021)%20Hindi%20HD%20Rip%201080p%20AVC%20(DD+5.1%20-%20640Kbps)%202.6GB%20ESub[MB].mkv
 #EXTINF:-1 group-title="HINDI MOVIES",Dhoom (2004)
 http://content.discoveryftp.net/Movies/Hindi/2004/Dhoom/Dhoom%202004%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20HDSector.mkv
 #EXTINF:-1 group-title="HINDI MOVIES",Dhoom 2 (2006)
@@ -586,7 +588,12 @@ http://content.discoveryftp.net/Movies/Hindi/2018/Garbage/Garbage%20(2018)%20Hin
 #EXTINF:-1 group-title="HINDI MOVIES",Bhavesh Joshi Superhero (2018)
 http://content.discoveryftp.net/Movies/Hindi/2018/Bhavesh%20Joshi%20Superhero/Bhavesh%20Joshi%20Superhero%20(2018)%20720p%20NetFlixRip%20x264%20AC3%20%205.1%20MSubs%20-%20xRG.mkv
 
-#EXTINF:-1 group-title="BANGLA MOVIES",Bromhodoityo (2020) INDIA BANGLA MOVIE
+
+
+
+#EXTINF:-1 group-title="BANGLA MOVIES",Tumi Ashbe Bole (2021)
+http://mymoviebazar.net/Data/movies/indian%20bangla/new/Tumi%20Ashbe%20Bole%20(2021)/Tumi.Ashbe.Bole.2021.1080p.DSNP.WEB-DL.AAC2.0.x264-Telly.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Bromhodoityo (2020)
 http://content.discoveryftp.net/Movies/Bangla/2020/Bromhodoityo/Bromhodoityo%202020%20Bengali%201080P%20WEBDL%20x264%20AVC%20AAC%20[shadow]%20!!Exclusive!!.mp4
 #EXTINF:-1 group-title="BANGLA MOVIES",Asur (2020)
 http://content.discoveryftp.net/Movies/Bangla/2020/Asur/Asur.2020.WEB-DL.MLSBD_1920x1080_b37bda6c3f2e06cc.mkv
