@@ -252,6 +252,8 @@ http://180.210.191.2/hls/stream5.m3u8
 http://mymoviebazar.net/Data/movies/bollywood/2021/Radhe%20(2021)/Radhe%20(2021)%20Hindi%201080p%20WEB-DL%20-MSub.mp4
 #EXTINF:-1 group-title="HINDI MOVIES",Mumbai Saga (2021)
 http://mymoviebazar.net/Data/movies/bollywood/2021/Mumbai%20Saga%20(2021)/Mumbai%20Saga%20(2021)%20Hindi%20HD%20Rip%201080p%20AVC%20(DD+5.1%20-%20640Kbps)%202.6GB%20ESub[MB].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Raone
+https://cdn.ihub.live/download/bollywood/2011/Ra.One%20%282011%29/Ra.One%20%282011%29%20Bluray-720p.mp4/chunk.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",Dhoom (2004)
 http://content.discoveryftp.net/Movies/Hindi/2004/Dhoom/Dhoom%202004%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20HDSector.mkv
 #EXTINF:-1 group-title="HINDI MOVIES",Dhoom 2 (2006)
