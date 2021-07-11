@@ -67,9 +67,9 @@ https://aslive.club/cn/indianbangla/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 2
 https://aslive.club/cn/indianbangla/starjalsha/chunks2.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
-https://aslive.club/cn/indianbangla/zeebanglachunks.m3u8
+https://aslive.club/cn/indianbangla/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 2
-https://aslive.club/cn/indianbangla/zeebanglachunks2.m3u8
+https://aslive.club/cn/indianbangla/zeebangla/chunks2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA",Zee Bangla Cinema
 https://aslive.club/cn/indianbangla/zeebanglacinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
@@ -87,47 +87,47 @@ https://aslive.club/cn/indianbangla/sunbangla/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony SIX HD
-http://180.210.191.2/hls/stream10.m3u8
+https://aslive.club/cn/sports/sonysix/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony SIX HD(2)
-http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
+https://aslive.club/cn/sports/sonysix/chunks2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD
-http://180.210.191.2/hls/stream40.m3u8
+https://aslive.club/cn/sports/ten1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD(2)
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+https://aslive.club/cn/sports/ten1/chunks2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD
-http://180.210.191.2/hls/stream39.m3u8
+https://aslive.club/cn/sports/ten2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD(2)
-http://103.109.56.116/live/skyfeed1018/index.m3u8
+https://aslive.club/cn/sports/ten2/chunks2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD(3)
-http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+https://aslive.club/cn/sports/ten2/chunks3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD
-http://199.66.95.242/3/3093/index.m3u8?token=test
+https://aslive.club/cn/sports/ten3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD(2)
-http://103.109.56.116/live/skyfeed1019/index.m3u8
+https://aslive.club/cn/sports/ten3/chunks2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="SPORTS", PTV Sports
-http://180.210.191.2/hls/stream11.m3u8
+https://aslive.club/cn/sports/ptv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=2DsJ3WgX" group-title="SPORTS",Star Sports 1 HD
-http://180.210.191.2/hls/stream15.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/952/11033345_india-cricket-logo-star-sports-2-logo-png.png" group-title="SPORTS",Star Sports 2 HD
-http://180.210.191.2/hls/stream16.m3u8
+https://aslive.club/cn/sports/star1/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/GpbGHPp/2021-05-12-11-51-26-removebg-preview.png",Star Sports 2
+https://aslive.club/cn/sports/star2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="SPORTS",Star Sports Select 1 HD 
-http://180.210.191.2/hls/stream12.m3u8
+https://aslive.club/cn/sports/starsl1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="SPORTS", Ten Cricket
-http://180.210.191.2/hls/stream34.m3u8
+https://aslive.club/cn/sports/tencric/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORTS",Bein Sports 1 HD
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+https://aslive.club/cn/sports/ben1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="SPORTS",Bein Sports 2 HD
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+https://aslive.club/cn/sports/ben2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="SPORTS",Bein Sports 3 HD
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+https://aslive.club/cn/sports/ben3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="SPORTS",Bein Sports 4 HD
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+https://aslive.club/cn/sports/ben4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="SPORTS",Bein Sports 5 HD
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+https://aslive.club/cn/sports/ben5/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="SPORTS",Bein Sports 6 HD
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+https://aslive.club/cn/sports/ben6/chunks.m3u8
 
 
 
