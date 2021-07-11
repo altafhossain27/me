@@ -117,18 +117,19 @@ https://aslive.club/cn/sports/starsl1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="SPORTS", Ten Cricket
 https://aslive.club/cn/sports/tencric/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XndtCW3.png" group-title="SPORTS",ESPN
+https://aslive.club/cn/sports/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7TeCoM.png" group-title="SPORTS",Euro Sports
+https://aslive.club/cn/sports/euro/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhlXnMe.jpg" group-title="SPORTS,Ten Sports
+https://aslive.club/cn/sports/tensports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORTS",Bein Sports 1 HD
 https://aslive.club/cn/sports/ben1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="SPORTS",Bein Sports 2 HD
 https://aslive.club/cn/sports/ben2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="SPORTS",Bein Sports 3 HD
 https://aslive.club/cn/sports/ben3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="SPORTS",Bein Sports 4 HD
-https://aslive.club/cn/sports/ben4/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="SPORTS",Bein Sports 5 HD
-https://aslive.club/cn/sports/ben5/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="SPORTS",Bein Sports 6 HD
-https://aslive.club/cn/sports/ben6/chunks.m3u8
+
 
 
 
