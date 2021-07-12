@@ -206,6 +206,8 @@ https://aslive.club/cn/hindi/andpicture/chunks.m3u8
 https://aslive.club/cn/documentary/travelxp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="DOCUMENTARY", National Geographic
 https://aslive.club/cn/documentary/nationalgeo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DOCUMENTARY",Nat Geo Wild
+https://aslive.club/cn/documentary/natgeowild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY", Discovery
 https://aslive.club/cn/documentary/discovery/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY", Animal Planet
