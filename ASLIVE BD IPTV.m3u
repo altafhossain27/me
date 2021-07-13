@@ -252,7 +252,8 @@ https://aslive.club/cn/religious/atnislamic/chunks.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="KIDS", Duronto TV
+https://aslive.club/cn/kids/duronto/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
 https://aslive.club/cn/kids/sonyvay/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="KIDS",Nick
