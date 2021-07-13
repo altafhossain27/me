@@ -197,7 +197,7 @@ https://aslive.club/cn/hindi/zeecinema/chunks.m3u8
 https://aslive.club/cn/hindi/utvaction/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures
 https://aslive.club/cn/hindi/andpicture/chunks.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max
 https://aslive.club/cn/hindi/sonymax/chunks.m3u8
 
 
@@ -235,8 +235,8 @@ https://aslive.club/cn/english/axn/chunks.m3u8
 https://aslive.club/cn/english/sonypix/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="ENGLISH",Zee Cafe
 https://aslive.club/cn/english/zeecafe/chunks.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="ENGLISH",Star Movies
+https://aslive.club/cn/english/starmovies/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="RELIGIOUS",Peace Tv - Bangla
