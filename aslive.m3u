@@ -250,7 +250,10 @@ https://aslive.club/altaf/kids/discokids/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="KIDS",Pogo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="KIDS",Disney Junior
+https://aslive.club/altaf/kids/disneyjunior/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="KIDS",Disney Junior
 https://aslive.club/altaf/kids/disney/chunks.m3u8
+
 
 
 
