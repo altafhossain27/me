@@ -118,10 +118,21 @@ https://aslive.club/altaf/sports/ben1/chunks.m3u8
 https://aslive.club/altaf/sports/ben2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="SPORTS",Bein Sports 3 HD
 https://aslive.club/altaf/sports/ben3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="SPORTS",Bein Sports Extra
+https://aslive.club/altaf/sports/benextra/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="SPORTS", AD Sports 1
 https://aslive.club/altaf/sports/adsports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="SPORTS", AD Sports 2
 https://aslive.club/altaf/sports/adsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="SPORTS", AD Sports 3
+https://aslive.club/altaf/sports/adsports3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="SPORTS", Sky Sports 2
+https://aslive.club/altaf/sports/skysports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="SPORTS", EDGE Sports
+https://aslive.club/altaf/sports/edgesports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="SPORTS", Fox Sports
+https://aslive.club/altaf/sports/foxsports/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="MUSIC",Gaan Bangla
