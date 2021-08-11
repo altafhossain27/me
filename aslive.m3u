@@ -1,65 +1,65 @@
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/Fd42rSe.png",IPTV BY ASLIVE
 https://i.imgur.com/Fd42rSe.png
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA", Gazi TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/gtv.jpg" group-title="BANGLA", Gazi TV
 https://aslive.club/altaf/sports/gtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",T Sports
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/tsports.jpg" group-title="BANGLA",T Sports
 https://aslive.club/altaf/sports/tsports/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",Sangsad TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sangsad.jpg" group-title="BANGLA",Sangsad TV
 https://aslive.club/altaf/bangla/sangsad/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",BTV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/btv.jpg" group-title="BANGLA",BTV
 https://aslive.club/altaf/bangla/btv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",ATN BANGLA
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/atnbangla.jpg" group-title="BANGLA",ATN BANGLA
 https://aslive.club/altaf/bangla/atnbangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",ATN NEWS
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/atnnews.jpg" group-title="BANGLA",ATN NEWS
 https://aslive.club/altaf/bangla/atnnews/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",CHANNEL I HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/channeli.jpg" group-title="BANGLA",CHANNEL I HD
 https://aslive.club/altaf/bangla/channeli/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",EKUSHEY TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/etv.jpg" group-title="BANGLA",EKUSHEY TV
 https://aslive.club/altaf/bangla/ekusheytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",RTV HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/rtv.jpg" group-title="BANGLA",RTV HD
 https://aslive.club/altaf/bangla/rtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/boisakhi.jpg" group-title="BANGLA",BOISHAKHI TV
 https://aslive.club/altaf/bangla/boishakhitv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",BANGLA VISION
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/banglavision.jpg" group-title="BANGLA",BANGLA VISION
 https://aslive.club/altaf/bangla/banglavision/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",MY TV HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/mytv.jpg" group-title="BANGLA",MY TV HD
 https://aslive.club/altaf/bangla/mytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",MOHONA TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/mohona.jpg" group-title="BANGLA",MOHONA TV
 https://aslive.club/altaf/bangla/mohona/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",MAASRANGA TV HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/masranga.jpg" group-title="BANGLA",MAASRANGA TV HD
 https://aslive.club/altaf/bangla/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",CHANNEL 9 HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/channel9.jpg" group-title="BANGLA",CHANNEL 9 HD
 https://aslive.club/altaf/bangla/channel9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",SA TV HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/satv.jpg" group-title="BANGLA",SA TV HD
 https://aslive.club/altaf/bangla/satv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.pngg" group-title="BANGLA",DEEPTO TV HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/deepto.jpg" group-title="BANGLA",DEEPTO TV HD
 https://aslive.club/altaf/bangla/deepto/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",Nagorik TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/nagorik.jpg" group-title="BANGLA",Nagorik TV
 https://aslive.club/altaf/bangla/nagorik/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",BANGLA TV HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/banglatv.jpg" group-title="BANGLA",BANGLA TV HD
 https://aslive.club/altaf/bangla/banglatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/independent.jpg" group-title="BANGLA",INDEPENDENT TV
 https://aslive.club/altaf/bangla/independent/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",SOMOY TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/somoy.jpg" group-title="BANGLA",SOMOY TV
 https://aslive.club/altaf/bangla/somoytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",CHANNEL 24
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/channel24.jpg" group-title="BANGLA",CHANNEL 24
 https://aslive.club/altaf/bangla/channel24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",JAMUNA TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/jamuna.jpg" group-title="BANGLA",JAMUNA TV
 https://aslive.club/altaf/bangla/jamuna/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",NEWS 24 HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/news24.jpg" group-title="BANGLA",NEWS 24 HD
 https://aslive.club/altaf/bangla/news24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",EKATTOR TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ekattor.jpg" group-title="BANGLA",EKATTOR TV
 http://103.205.133.19/hls/ekatoortv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",DBC NEWS HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/dbc.jpg" group-title="BANGLA",DBC NEWS HD
 https://aslive.club/altaf/bangla/dbc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",BIJOY TV HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/bijoytv.jpg" group-title="BANGLA",BIJOY TV HD
 https://aslive.club/altaf/bangla/bijoytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",ANANDA TV HD
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/anondo.jpg" group-title="BANGLA",ANANDA TV HD
 https://aslive.club/altaf/bangla/anondo/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",MY CINEMA
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/mycinema.jpg" group-title="BANGLA",MY CINEMA
 https://aslive.club/altaf/bangla/mycinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="BANGLA",Movie Bangla TV
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/moviebangla.jpg" group-title="BANGLA",Movie Bangla TV
 https://aslive.club/altaf/bangla/moviebangla/chunks.m3u8
 
 
