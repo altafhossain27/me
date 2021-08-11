@@ -163,7 +163,7 @@ https://aslive.club/altaf/music/musicindia/chunks.m3u8
 https://aslive.club/altaf/music/9xm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="MUSIC",Hungama Dil se
 https://aslive.club/altaf/music/dilse/chunks.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="MUSIC",MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd42rSe.png" group-title="MUSIC",MTV
 https://aslive.club/altaf/music/mtv/chunks.m3u8
 
 
