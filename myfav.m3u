@@ -1,0 +1,278 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/gtv.jpg" group-title="BANGLA", Gazi TV
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/tsports.jpg" group-title="BANGLA",T Sports
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sangsad.jpg" group-title="BANGLA",Sangsad TV
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/btv.jpg" group-title="BANGLA",BTV
+http://stream.dhakaflix.com:8081/hls/btvworld.m3u8/chunks.m3u8?nimblesessionid=2321035
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/atnbangla.jpg" group-title="BANGLA",ATN BANGLA
+http://stream.dhakaflix.com:8081/hls/atnbangla.m3u8/chunks.m3u8?nimblesessionid=2321044
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/atnnews.jpg" group-title="BANGLA",ATN NEWS
+https://aslive.club/altaf/bangla/atnnews/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/channeli.jpg" group-title="BANGLA",CHANNEL I HD
+https://aslive.club/altaf/bangla/channeli/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/etv.jpg" group-title="BANGLA",EKUSHEY TV
+https://aslive.club/altaf/bangla/ekusheytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/rtv.jpg" group-title="BANGLA",RTV HD
+https://aslive.club/altaf/bangla/rtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/boisakhi.jpg" group-title="BANGLA",BOISHAKHI TV
+https://aslive.club/altaf/bangla/boishakhitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/banglavision.jpg" group-title="BANGLA",BANGLA VISION
+https://aslive.club/altaf/bangla/banglavision/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/mytv.jpg" group-title="BANGLA",MY TV HD
+https://aslive.club/altaf/bangla/mytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/mohona.jpg" group-title="BANGLA",MOHONA TV
+https://aslive.club/altaf/bangla/mohona/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/masranga.jpg" group-title="BANGLA",MAASRANGA TV HD
+http://stream.dhakaflix.com:8081/live/maasranga.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/channel9.jpg" group-title="BANGLA",CHANNEL 9 HD
+https://aslive.club/altaf/bangla/channel9/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/satv.jpg" group-title="BANGLA",SA TV HD
+https://aslive.club/altaf/bangla/satv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/deepto.jpg" group-title="BANGLA",DEEPTO TV HD
+http://stream.dhakaflix.com:8081/hls/deeptotv.m3u8/chunks.m3u8?nimblesessionid=2321094
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/nagorik.jpg" group-title="BANGLA",Nagorik TV
+http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8?nimblesessionid=2321110
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/banglatv.jpg" group-title="BANGLA",BANGLA TV HD
+https://aslive.club/altaf/bangla/banglatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/independent.jpg" group-title="BANGLA",INDEPENDENT TV
+https://aslive.club/altaf/bangla/independent/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/somoy.jpg" group-title="BANGLA",SOMOY TV
+http://stream.dhakaflix.com:8081/hls/somoy.m3u8/chunks.m3u8?nimblesessionid=2320964
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/channel24.jpg" group-title="BANGLA",CHANNEL 24
+https://aslive.club/altaf/bangla/channel24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/jamunatv.jpg" group-title="BANGLA",JAMUNA TV
+https://aslive.club/altaf/bangla/jamuna/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/news24.jpg" group-title="BANGLA",NEWS 24 HD
+http://stream.dhakaflix.com:8081/hls/news24.m3u8/chunks.m3u8?nimblesessionid=2321464
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ekattor.jpg" group-title="BANGLA",EKATTOR TV
+http://103.205.133.19/hls/ekatoortv.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/dbc.jpg" group-title="BANGLA",DBC NEWS HD
+https://aslive.club/altaf/bangla/dbc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/bijoytv.jpg" group-title="BANGLA",BIJOY TV HD
+https://aslive.club/altaf/bangla/bijoytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/anondo.jpg" group-title="BANGLA",ANANDA TV HD
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/mycinema.jpg" group-title="BANGLA",MY CINEMA
+https://aslive.club/altaf/bangla/mycinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/moviebangla.jpg" group-title="BANGLA",Movie Bangla TV
+https://aslive.club/altaf/bangla/moviebangla/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
+http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/zeebangla.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
+http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/zeebanglacinema.jpg" group-title="INDIAN BANGLA",Zee Bangla Cinema
+https://aslive.club/altaf/indianbangla/zeebanglacinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
+https://aslive.club/altaf/indianbangla/colorsbangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sony8.jpg" group-title="INDIAN BANGLA",Sony Aath
+http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/enter10bn.jpg" group-title="INDIAN BANGLA",Enter 10 Bangla
+https://aslive.club/altaf/indianbangla/enter10bn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/jalshamovies.jpg" group-title="INDIAN BANGLA",Jalsha Movies
+http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sunbangla.jpg" group-title="INDIAN BANGLA",Sun Bangla
+http://stream.dhakaflix.com:8081/live/bbcearth/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/tsports.jpg" group-title="SPORTS",T Sports
+http://stream.dhakaflix.com:8081/live/nk-tsports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sonysix.jpg" group-title="SPORTS",Sony SIX HD
+http://stream.dhakaflix.com:8081/live/ptvsports.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ten1.jpg" group-title="SPORTS",Sony Ten 1 HD
+https://aslive.club/altaf/sports/ten1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ten2.jpg" group-title="SPORTS",Sony Ten 2 HD
+https://aslive.club/altaf/sports/ten2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ten3.jpg" group-title="SPORTS",Sony Ten 3 HD
+https://aslive.club/altaf/sports/ten3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ptv.jpg" group-title="SPORTS",PTV Sports
+http://stream.dhakaflix.com:8081/live/sonysix.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/starsports1.jpg" group-title="SPORTS",Star Sports 1 HD
+https://aslive.club/altaf/sports/star1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/starsports2.jpg" group-title="SPORTS",Star Sports 2
+http://stream.dhakaflix.com:8081/play/604/chunks.m3u8?nimblesessionid=2321296
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/starsl1.jpg" group-title="SPORTS",Star Sports Select 1 HD 
+http://stream.dhakaflix.com:8081/live/starselect1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/starsl2.jpg" group-title="SPORTS",Star Sports Select 2 HD
+https://aslive.club/altaf/sports/starsl2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/tencricket.jpg" group-title="SPORTS",Ten Cricket
+https://aslive.club/altaf/sports/tencric/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/espn.jpg" group-title="SPORTS",ESPN
+https://aslive.club/altaf/sports/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/eurosports.jpg" group-title="SPORTS",Euro Sports
+https://aslive.club/altaf/sports/euro/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/tensports.jpg" group-title="SPORTS",Ten Sports
+https://aslive.club/altaf/sports/tensports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/bein1.jpg" group-title="SPORTS",Bein Sports 1 HD
+https://aslive.club/altaf/sports/ben1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/bein2.jpg" group-title="SPORTS",Bein Sports 2 HD
+https://aslive.club/altaf/sports/ben2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/bein3.jpg" group-title="SPORTS",Bein Sports 3 HD
+https://aslive.club/altaf/sports/ben3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/beinextra.jpg" group-title="SPORTS",Bein Sports Extra
+http://stream.dhakaflix.com:8081/live/bensportsextra/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ad1.jpg" group-title="SPORTS", AD Sports 1
+https://aslive.club/altaf/sports/adsports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ad2.jpg" group-title="SPORTS", AD Sports 2
+https://aslive.club/altaf/sports/adsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/ad3.jpg" group-title="SPORTS", AD Sports 3
+https://aslive.club/altaf/sports/adsports3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/skysports2.jpg" group-title="SPORTS", Sky Sports 2
+https://aslive.club/altaf/sports/skysports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/edge.jpg" group-title="SPORTS", EDGE Sports
+https://aslive.club/altaf/sports/edgesports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/foxsports.jpg" group-title="SPORTS", Fox Sports
+https://aslive.club/altaf/sports/foxsports/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/gaanbangla.jpg" group-title="MUSIC",Gaan Bangla
+https://aslive.club/altaf/music/gaanbangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/rtvmusic.jpg" group-title="MUSIC",RTV Music
+https://aslive.club/altaf/music/rtvmusic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/atnmusic.jpg" group-title="MUSIC",ATN Music
+https://aslive.club/altaf/music/atnmusic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sangeet.jpg" group-title="MUSIC",Sangeet Bangla
+https://aslive.club/altaf/music/sangeetbn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/banglatalkies.jpg" group-title="MUSIC",Bangla Talkies
+https://aslive.club/altaf/music/banglatalk/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/dhoom.jpg" group-title="MUSIC",DHOOM MUSIC
+https://aslive.club/altaf/music/dhoom/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/zing.jpg" group-title="MUSIC",Zing
+https://aslive.club/altaf/music/zing/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/b4umusic.jpg" group-title="MUSIC",B4U Music
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/mastti.jpg" group-title="MUSIC",MUSIC MASTI
+https://aslive.club/altaf/music/musicmasti/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/zoom.jpg" group-title="MUSIC",Zoom
+https://aslive.club/altaf/music/zoom/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/9x.jpg" group-title="MUSIC",9x Jalwa
+https://aslive.club/altaf/music/9x/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/musicindia.jpg" group-title="MUSIC",MUSIC INDIA
+https://aslive.club/altaf/music/musicindia/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/9xm.jpg" group-title="MUSIC",9xM
+https://aslive.club/altaf/music/9xm/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/dilse.jpg" group-title="MUSIC",Hungama Dil se
+https://aslive.club/altaf/music/dilse/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/mtv.jpg" group-title="MUSIC",MTV
+https://aslive.club/altaf/music/mtv/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sonysab.jpg" group-title="HINDI",Sony Sab
+https://aslive.club/altaf/hindi/sonysab/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/starplus.jpg" group-title="HINDI",Star Plus
+https://aslive.club/altaf/hindi/starplus/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sony.jpg" group-title="HINDI",Sony Entertainment
+https://aslive.club/altaf/hindi/sony/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/andtv.jpg" group-title="HINDI",& TV 
+https://aslive.club/altaf/hindi/andtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/colors.jpg" group-title="HINDI",Colors 
+https://aslive.club/altaf/hindi/colors/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/monoronjon.jpg" group-title="HINDI" ,Manoranjan Movies
+https://aslive.club/altaf/hindi/monoronjon/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/boxcinema.jpg" group-title="HINDI",Box Cinema
+https://aslive.club/altaf/hindi/boxcinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sonywah.jpg" group-title="HINDI",SONY Wah
+https://aslive.club/altaf/hindi/sonywah/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/bflix.jpg" group-title="HINDI",BFlix Movies
+https://aslive.club/altaf/hindi/bflix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/stargold.jpg" group-title="HINDI",Star Gold
+http://stream.dhakaflix.com:8081/&priveHD/tracks-v1a1/chunks.m3u8?nimblesessionid=2321378
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/stargold2.jpg" group-title="HINDI",Star Gold 2
+https://aslive.club/altaf/hindi/stargold2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/colorcineplex.jpg" group-title="HINDI",Colors Cineplex
+http://stream.dhakaflix.com:8081/live/cinemaplex/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/risteycineplex.jpg" group-title="HINDI",Rishtey Cineplex
+https://aslive.club/altaf/hindi/risteycineplex/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/zeebolywood.jpg" group-title="HINDI",Zee Bolywood
+https://aslive.club/altaf/hindi/zeebolywood/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/zeecinema.jpg" group-title="HINDI",Zee Cinema
+https://aslive.club/altaf/hindi/zeecinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/utv.jpg" group-title="HINDI",UTV Action
+https://aslive.club/altaf/hindi/utvaction/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/andpicture.jpg" group-title="HINDI",& Pictures
+https://aslive.club/altaf/hindi/andpicture/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sonymax.jpg" group-title="HINDI",Sony Max
+http://stream.dhakaflix.com:8081/live/sonymax/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/travelxp.jpg" group-title="DOCUMENTARY",Travel XP 
+https://aslive.club/altaf/documentary/travelxp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/natgeo.jpg" group-title="DOCUMENTARY",National Geographic
+http://stream.dhakaflix.com:8081/live/natgeo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/natgeowild.jpg" group-title="DOCUMENTARY",Nat Geo Wild
+https://aslive.club/altaf/documentary/natgeowild/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/discovery.jpg" group-title="DOCUMENTARY",Discovery
+http://stream.dhakaflix.com:8081/live/discovary/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/animalplanet.jpg" group-title="DOCUMENTARY",Animal Planet
+https://aslive.club/altaf/documentary/animalplanet/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/bbcearth.jpg" group-title="DOCUMENTARY",SONY BBC Earth
+https://aslive.club/altaf/documentary/bbcearth/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/bbclife.jpg" group-title="DOCUMENTARY",BBC Lifestyle
+https://aslive.club/altaf/documentary/bbclife/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/turbo.jpg" group-title="DOCUMENTARY",Discovery Turbo
+https://aslive.club/altaf/documentary/discoveryturbo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/tlc.jpg" group-title="DOCUMENTARY",TLC
+http://stream.dhakaflix.com:8081/live/animalplanet/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/andflix.jpg" group-title="ENGLISH",& Flix
+https://aslive.club/altaf/english/andflix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/andprive.jpg" group-title="ENGLISH",& Prive
+https://aslive.club/altaf/english/andprive/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/axn.jpg" group-title="ENGLISH",AXN
+http://stream.dhakaflix.com:8081/live/axn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sonypix.jpg" group-title="ENGLISH",Sony Pix
+http://stream.dhakaflix.com:8081/live/sonypix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/zeecafe.jpg" group-title="ENGLISH",Zee Cafe
+https://aslive.club/altaf/english/zeecafe/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/starmovies.jpg" group-title="ENGLISH",Star Movies
+http://stream.dhakaflix.com:8081/live/moviesstar/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="ENGLISH",Lotus Macau
+http://stream.dhakaflix.com:8081/hls/stream34.m3u8/chunks.m3u8?nimblesessionid=2321344
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-movies-now-hd-logo-300x300.jpg" group-title="ENGLISH",Movies Now
+http://stream.dhakaflix.com:8081/live/moviesnow/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/peacetv.jpg" group-title="RELIGIOUS",Peace Tv - Bangla
+https://aslive.club/altaf/religious/peacetv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/aldawah.jpg" group-title="RELIGIOUS",Al Dawah
+https://aslive.club/altaf/religious/aldawah/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/atnislamic.jpg" group-title="RELIGIOUS",ATN Islamic TV
+https://aslive.club/altaf/religious/atnislamic/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/duronto.jpg" group-title="KIDS",Duronto TV
+http://stream.dhakaflix.com:8081/live/duronto/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sonyvay.jpg" group-title="KIDS",Sony Yay
+http://stream.dhakaflix.com:8081/sony/yay/chunks.m3u8?nimblesessionid=2321436
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/nick.jpg" group-title="KIDS",Nick
+http://stream.dhakaflix.com:8081/live/nick.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/discokids.jpg" group-title="KIDS",Discovery Kids
+https://aslive.club/altaf/kids/discokids/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/pogo.jpg" group-title="KIDS",Pogo
+https://aslive.club/altaf/kids/pogo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/disneyjunior.jpg" group-title="KIDS",Disney Junior
+http://stream.dhakaflix.com:8081/live/cn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/disney.jpg" group-title="KIDS",Disney
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/marvelhq.jpg" group-title="KIDS",Marvel HQ
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/hangamakids.jpg" group-title="KIDS",Hangama Kids
+
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/sonic.jpg" group-title="KIDS",Sonic
+
+
+
+
