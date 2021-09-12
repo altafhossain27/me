@@ -72,7 +72,7 @@ https://aslive.club/altaf/indianbangla/zeebanglacinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
 https://aslive.club/altaf/indianbangla/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sony8.jpg" group-title="INDIAN BANGLA",Sony Aath
-http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
+http://103.205.133.18/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/enter10bn.jpg" group-title="INDIAN BANGLA",Enter 10 Bangla
 https://aslive.club/altaf/indianbangla/enter10bn/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/jalshamovies.jpg" group-title="INDIAN BANGLA",Jalsha Movies
