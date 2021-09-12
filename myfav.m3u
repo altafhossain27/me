@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/gtv.jpg" group-title="BANGLA", Gazi TV
-
+http://137.59.155.77:8088/hls/01gazitv.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/tsports.jpg" group-title="BANGLA",T Sports
 
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sangsad.jpg" group-title="BANGLA",Sangsad TV
@@ -16,7 +16,7 @@ https://aslive.club/altaf/bangla/channeli/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/etv.jpg" group-title="BANGLA",EKUSHEY TV
 https://aslive.club/altaf/bangla/ekusheytv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/rtv.jpg" group-title="BANGLA",RTV HD
-https://aslive.club/altaf/bangla/rtv/chunks.m3u8
+http://103.205.133.18/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/boisakhi.jpg" group-title="BANGLA",BOISHAKHI TV
 https://aslive.club/altaf/bangla/boishakhitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/banglavision.jpg" group-title="BANGLA",BANGLA VISION
@@ -48,7 +48,7 @@ https://aslive.club/altaf/bangla/jamuna/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/news24.jpg" group-title="BANGLA",NEWS 24 HD
 http://stream.dhakaflix.com:8081/hls/news24.m3u8/chunks.m3u8?nimblesessionid=2321464
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/ekattor.jpg" group-title="BANGLA",EKATTOR TV
-http://103.205.133.19/hls/ekatoortv.m3u8
+http://103.205.133.18/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/dbc.jpg" group-title="BANGLA",DBC NEWS HD
 https://aslive.club/altaf/bangla/dbc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/bijoytv.jpg" group-title="BANGLA",BIJOY TV HD
@@ -74,7 +74,7 @@ https://aslive.club/altaf/indianbangla/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sony8.jpg" group-title="INDIAN BANGLA",Sony Aath
 http://103.205.133.18/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/enter10bn.jpg" group-title="INDIAN BANGLA",Enter 10 Bangla
-https://aslive.club/altaf/indianbangla/enter10bn/chunks.m3u8
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/jalshamovies.jpg" group-title="INDIAN BANGLA",Jalsha Movies
 http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sunbangla.jpg" group-title="INDIAN BANGLA",Sun Bangla
@@ -167,15 +167,15 @@ https://aslive.club/altaf/music/mtv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sonysab.jpg" group-title="HINDI",Sony Sab
-https://aslive.club/altaf/hindi/sonysab/chunks.m3u8
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/starplus.jpg" group-title="HINDI",Star Plus
-https://aslive.club/altaf/hindi/starplus/chunks.m3u8
+http://103.205.133.18/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sony.jpg" group-title="HINDI",Sony Entertainment
-https://aslive.club/altaf/hindi/sony/chunks.m3u8
+http://103.205.133.18/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/andtv.jpg" group-title="HINDI",& TV 
-https://aslive.club/altaf/hindi/andtv/chunks.m3u8
+http://103.205.133.18/hls/andtv.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/colors.jpg" group-title="HINDI",Colors 
-https://aslive.club/altaf/hindi/colors/chunks.m3u8
+http://103.205.133.18/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/monoronjon.jpg" group-title="HINDI" ,Manoranjan Movies
 https://aslive.club/altaf/hindi/monoronjon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/boxcinema.jpg" group-title="HINDI",Box Cinema
