@@ -134,25 +134,25 @@ https://aslive.club/altaf/sports/foxsports/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/gaanbangla.jpg" group-title="MUSIC",Gaan Bangla
-https://aslive.club/altaf/music/gaanbangla/chunks.m3u8
+http://103.205.133.18/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/rtvmusic.jpg" group-title="MUSIC",RTV Music
-https://aslive.club/altaf/music/rtvmusic/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/atnmusic.jpg" group-title="MUSIC",ATN Music
-https://aslive.club/altaf/music/atnmusic/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sangeet.jpg" group-title="MUSIC",Sangeet Bangla
-https://aslive.club/altaf/music/sangeetbn/chunks.m3u8
+http://103.205.133.18/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/banglatalkies.jpg" group-title="MUSIC",Bangla Talkies
-https://aslive.club/altaf/music/banglatalk/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/dhoom.jpg" group-title="MUSIC",DHOOM MUSIC
-https://aslive.club/altaf/music/dhoom/chunks.m3u8
+http://103.205.133.18/hls/dhoommusic.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/zing.jpg" group-title="MUSIC",Zing
-https://aslive.club/altaf/music/zing/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/b4umusic.jpg" group-title="MUSIC",B4U Music
 
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/mastti.jpg" group-title="MUSIC",MUSIC MASTI
 https://aslive.club/altaf/music/musicmasti/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/zoom.jpg" group-title="MUSIC",Zoom
-https://aslive.club/altaf/music/zoom/chunks.m3u8
+http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/9x.jpg" group-title="MUSIC",9x Jalwa
 https://aslive.club/altaf/music/9x/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/musicindia.jpg" group-title="MUSIC",MUSIC INDIA
@@ -162,8 +162,7 @@ https://aslive.club/altaf/music/9xm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/dilse.jpg" group-title="MUSIC",Hungama Dil se
 https://aslive.club/altaf/music/dilse/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/mtv.jpg" group-title="MUSIC",MTV
-https://aslive.club/altaf/music/mtv/chunks.m3u8
-
+http://watchindia.net:8880/live/33253/72963/786.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sonysab.jpg" group-title="HINDI",Sony Sab
@@ -191,15 +190,15 @@ https://aslive.club/altaf/hindi/stargold2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/colorcineplex.jpg" group-title="HINDI",Colors Cineplex
 http://stream.dhakaflix.com:8081/live/cinemaplex/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/risteycineplex.jpg" group-title="HINDI",Rishtey Cineplex
-https://aslive.club/altaf/hindi/risteycineplex/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/zeebolywood.jpg" group-title="HINDI",Zee Bolywood
-https://aslive.club/altaf/hindi/zeebolywood/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/zeecinema.jpg" group-title="HINDI",Zee Cinema
-https://aslive.club/altaf/hindi/zeecinema/chunks.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/utv.jpg" group-title="HINDI",UTV Action
-https://aslive.club/altaf/hindi/utvaction/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/andpicture.jpg" group-title="HINDI",& Pictures
-https://aslive.club/altaf/hindi/andpicture/chunks.m3u8
+http://103.205.133.18/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/sonymax.jpg" group-title="HINDI",Sony Max
 http://stream.dhakaflix.com:8081/live/sonymax/chunks.m3u8
 
