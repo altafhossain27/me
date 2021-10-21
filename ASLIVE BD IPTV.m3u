@@ -6,7 +6,7 @@ http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="BANGLA", Gazi TV2
 http://stream.dhakaflix.com:8081/live/GTV-4K/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpbGHPp/2021-05-12-11-51-26-removebg-preview.png" group-title="SPORTS",Star Sports 2
-http://stream.dhakaflix.com:8081/play/604/chunks.m3u8
+http://89.163.144.41:8880/live/699312472922/TVSTARIPTV/390358.m3u8?token=TBINUUtRElhGCQRRVV0PVQBVVFcBXFxdB1dWBQRUUAYGUVEBWwhTV1ISHBcQTUpSUVw6DF1HAwoJBFUFChsWEURVF29RXRJYRgIHBFMACRUcExEMVAAbAwAYREBbUxZeFQVQCRoVEgccRFVHDVhUaFRUEwxaABsDXkEKXB4VWwpoVABdWVdUQF4SABdPG1FEQBNfC0wJVRUSVg9EQFZAARUKRwENAAJASBJTWhZXTEVJE19HeyEbFRJRHkRXWUcNWF5HChpUAxdcEhwXCkpnRVVCERdcBFRcQhZcEgIVGEZaUR1vW1ZeDAFTRFwMV0sVChNRRxVHVFZeXRJfQGhEDVMSXxIPCgBURk0=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",T Sports
 http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=2253640
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA",Sangsad TV
