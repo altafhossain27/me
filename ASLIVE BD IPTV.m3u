@@ -2,13 +2,13 @@
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/V7DWiW2",IPTV BY ASLIVE
 https://i.imgur.com/V7DWiW2.png
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="BANGLA", Gazi TV
-http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8?token=5162afc9c8f533138b8f7da582d8b4ad8eb43267-53142ecd16ad206817cb9ed687b0b100-1635089149-1635078349
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="BANGLA", Gazi TV2
 http://stream.dhakaflix.com:8081/live/GTV-4K/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpbGHPp/2021-05-12-11-51-26-removebg-preview.png" group-title="SPORTS",Star Sports 2
 http://89.163.144.41:8880/live/699312472922/TVSTARIPTV/390358.m3u8?token=TBINUUtRElhGCQRRVV0PVQBVVFcBXFxdB1dWBQRUUAYGUVEBWwhTV1ISHBcQTUpSUVw6DF1HAwoJBFUFChsWEURVF29RXRJYRgIHBFMACRUcExEMVAAbAwAYREBbUxZeFQVQCRoVEgccRFVHDVhUaFRUEwxaABsDXkEKXB4VWwpoVABdWVdUQF4SABdPG1FEQBNfC0wJVRUSVg9EQFZAARUKRwENAAJASBJTWhZXTEVJE19HeyEbFRJRHkRXWUcNWF5HChpUAxdcEhwXCkpnRVVCERdcBFRcQhZcEgIVGEZaUR1vW1ZeDAFTRFwMV0sVChNRRxVHVFZeXRJfQGhEDVMSXxIPCgBURk0=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",T Sports
-http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=2253640
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=2e3ee4259e37f8d87e145b5d6d6fbcb230471a74-b7f3e2dcb086dba426f58e87aceab2b8-1635089146-1635078346
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA",Sangsad TV
 https://aslive.club/cn/bangla/sangsad/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
