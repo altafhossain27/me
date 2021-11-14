@@ -10,9 +10,9 @@ http://89.163.144.41:8880/live/699312472922/TVSTARIPTV/390358.m3u8?token=TBINUUt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",T Sports
 http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=2e3ee4259e37f8d87e145b5d6d6fbcb230471a74-b7f3e2dcb086dba426f58e87aceab2b8-1635089146-1635078346
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA",Sangsad TV
-https://aslive.club/cn/bangla/sangsad/chunks.m3u8
+http://103.106.2.149:13456/sangsad.m3u8
 #EXTINF:-1 tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
-https://aslive.club/cn/bangla/btv/chunks.m3u8
+https://last.gcdn.co/IND427/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BANGLA",ATN BANGLA
 http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BANGLA",ATN NEWS
@@ -76,23 +76,19 @@ https://aslive.club/cn/bangla/joyjatra/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
-https://aslive.club/cn/indianbangla/starjalsha/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 2
-https://aslive.club/cn/indianbangla/starjalsha/chunks2.m3u8
+https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
-https://aslive.club/cn/indianbangla/zeebangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 2
-https://aslive.club/cn/indianbangla/zeebangla/chunks2.m3u8
+https://last.gcdn.co/IND389/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA",Zee Bangla Cinema
-https://aslive.club/cn/indianbangla/zeebanglacinema/chunks.m3u8
+https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
-https://aslive.club/cn/indianbangla/colorsbangla/chunks.m3u8
+https://last.gcdn.co/IND393/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="INDIAN BANGLA",Sony Aath
-https://aslive.club/cn/indianbangla/sony8/chunks.m3u8
+https://last.gcdn.co/IND397/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="INDIAN BANGLA",Enter 10 Bangla
 https://aslive.club/cn/indianbangla/enter10bn/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="INDIAN BANGLA",Jalsha Movies HD
-https://aslive.club/cn/indianbangla/jalshamovies/chunks.m3u8
+http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="INDIAN BANGLA",Sun Bangla
 https://aslive.club/cn/indianbangla/sunbangla/chunks.m3u8
 
