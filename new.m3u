@@ -1,621 +1,158 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://tv.bdtype.com/uploads/tv_image/b-tv.png" group-title="BANGLADESHI BANGLA",BTV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV World HD" tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="BANGLADESHI BANGLA",BTV World HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBC NEWS" tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLADESHI BANGLA",DBC NEWS
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy News" tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="BANGLADESHI BANGLA",Somoy News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy News HD" tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="BANGLADESHI BANGLA",Somoy News HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent Television " tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="BANGLADESHI BANGLA",Independent Television 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="BANGLADESHI BANGLA",Jamuna TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="BANGLADESHI BANGLA",Channel 24
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24 " tvg-logo="https://dl.dropbox.com/s/hi507jq47zrx1k1/news_24_bd.png" group-title="BANGLADESHI BANGLA",News 24 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="BANGLADESHI BANGLA",ATN News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV " tvg-logo="https://dl.dropbox.com/s/fncrukxmbiqrcjl/ekattor_tv.png" group-title="BANGLADESHI BANGLA",Ekattor TV 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLADESHI BANGLA",Ekattor TV HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="BANGLADESHI BANGLA",SA TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/ty5Y8Lt.png" group-title="BANGLADESHI BANGLA",Deepto TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV HD" tvg-logo="https://i.imgur.com/ty5Y8Lt.png" group-title="BANGLADESHI BANGLA",Deepto TV HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel I HD " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BANGLADESHI BANGLA",Channel I HD 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel I " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BANGLADESHI BANGLA",Channel I 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="BANGLADESHI BANGLA",Channel 9
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="BANGLADESHI BANGLA",Asian TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="BANGLADESHI BANGLA",ATN Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="BANGLADESHI BANGLA",Banglavision TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="BANGLADESHI BANGLA",Boishakhi TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="https://www.desh.tv/images/siteicons/logo.png" group-title="BANGLADESHI BANGLA",Desh TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BANGLADESHI BANGLA",Ekushey TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BANGLADESHI BANGLA",Gazi TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg" group-title="BANGLADESHI BANGLA",NTV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg" group-title="BANGLADESHI BANGLA",NTV HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.png" group-title="BANGLADESHI BANGLA",RTV 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.png" group-title="BANGLADESHI BANGLA",RTV HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="https://meghnatv.com/source/TV/gaan_bangla_tv_bd.png" group-title="BANGLADESHI BANGLA",Gaan Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY TV HD" tvg-logo="https://dl.dropbox.com/s/tc7dcs7j1bdk6ec/my_tv_bd.png" group-title="BANGLADESHI BANGLA",MY TV HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV HD  " tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="BANGLADESHI BANGLA",Banglavision TV HD  
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="https://dl.dropbox.com/s/brghqpui90m3gf5/mohona_tv.png" group-title="BANGLADESHI BANGLA",Mohona TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="BANGLADESHI BANGLA",Bijoy TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik" tvg-logo="https://i.pinimg.com/280x280_RS/7d/54/a8/7d54a833d5421acc00d16da019244e17.jpg" group-title="BANGLADESHI BANGLA",Nagorik
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1723.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Masranga TV" tvg-logo="https://i.imgur.com/A0mxgUi.png" group-title="BANGLADESHI BANGLA",Masranga TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="http://www.akhtargroup.com.bd/wp-content/uploads/2020/08/banglatvlogo3.png" group-title="BANGLADESHI BANGLA",Bangla TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atn Music" tvg-logo="https://www.atnmusic.tv/images/logo.png" group-title="BANGLADESHI BANGLA",Atn Music
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 19 ( New York )" tvg-logo="https://channel19.tv/wp-content/uploads/2020/08/Channel-19-Logo.png" group-title="প্রবাসী বাংলা চ্যানেল",Channel 19 ( New York )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nandan TV ( Canada )" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="প্রবাসী বাংলা চ্যানেল",Nandan TV ( Canada )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Time TV ( New York )" tvg-logo="https://dl.dropbox.com/s/7logepase0k1qd3/ttv200.png" group-title="প্রবাসী বাংলা চ্যানেল",Time TV ( New York )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRB TV ( Canada )" tvg-logo="https://pbs.twimg.com/profile_images/868624421585596418/VSzAiopn.jpg" group-title="প্রবাসী বাংলা চ্যানেল",NRB TV ( Canada )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRB TV" tvg-logo="https://pbs.twimg.com/profile_images/868624421585596418/VSzAiopn.jpg" group-title="BANGLADESHI BANGLA",NRB TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Time TV" tvg-logo="https://dl.dropbox.com/s/7logepase0k1qd3/ttv200.png" group-title="BANGLADESHI BANGLA",Time TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NCN" tvg-logo="https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/215339630_100533005644532_7684222611843198294_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=DCTLlBGCqKwAX-c7vKa&_nc_ht=scontent-lga3-2.xx&oh=2e1e5d1f2e8bc7abb98d126d8759d195&oe=614AE56D" group-title="BANGLADESHI BANGLA",NCN
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2816.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NCN ( New York )" tvg-logo="https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/215339630_100533005644532_7684222611843198294_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=DCTLlBGCqKwAX-c7vKa&_nc_ht=scontent-lga3-2.xx&oh=2e1e5d1f2e8bc7abb98d126d8759d195&oe=614AE56D" group-title="প্রবাসী বাংলা চ্যানেল",NCN ( New York )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2801.m3u8
-#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="INDIAN BANGLA ",Sony Aath
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/566.m3u8
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/898.m3u8
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg " group-title="INDIAN BANGLA ",Zee Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/974.m3u8
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="INDIAN BANGLA ",Zee Bangla 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/975.m3u8
-#EXTINF:-1 tvg-id="sunbangla.in" tvg-name="Sun Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Sun_Bangla_logo.jpg/revision/latest?cb=20190203115538" group-title="INDIAN BANGLA ",Sun Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2581.m3u8
-#EXTINF:-1 tvg-id="sunbangla.in" tvg-name="SUN Bangla HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Sun_Bangla_logo.jpg/revision/latest?cb=20190203115538" group-title="INDIAN BANGLA ",SUN Bangla HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1012.m3u8
-#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="Colors Bangla" tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="INDIAN BANGLA ",Colors Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1148.m3u8
-#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="Colors Bangla 4K " tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="INDIAN BANGLA ",Colors Bangla 4K 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/976.m3u8
-#EXTINF:-1 tvg-id="aakashaath.in" tvg-name="Akash Aath" tvg-logo="https://starhd25.com/wp-content/uploads/2021/04/36_HP_Aakash-Aath-300x169-1.png" group-title="INDIAN BANGLA ",Akash Aath
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Enter 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg" group-title="INDIAN BANGLA ",Enter 10
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2654.m3u8
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="Jalsha Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="INDIAN BANGLA ",Jalsha Movies
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/570.m3u8
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="Jalsha Movies 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="INDIAN BANGLA ",Jalsha Movies 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/962.m3u8
-#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="https://dl.dropbox.com/s/ikyfgnzfuvcrqnf/zee_bangla_cinema.jpg" group-title="INDIAN BANGLA ",Zee Bangla Cinema
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1150.m3u8
-#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-name="Zee Bangla Cinema HD" tvg-logo="https://dl.dropbox.com/s/ikyfgnzfuvcrqnf/zee_bangla_cinema.jpg" group-title="INDIAN BANGLA ",Zee Bangla Cinema HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="INDIAN BANGLA ",Sangeet Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTvqb4PqrO8ohIPKojcopDpi7611EFFiyVt5tTfHEY_5zgUeKh&usqp=CAU" group-title="INDIAN BANGLA ",Ruposhi Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/567.m3u8
-#EXTINF:-1 tvg-id="news18india.in" tvg-name="News 18" tvg-logo="https://www.clipartkey.com/mpngs/m/25-255294_news-18-hindi-clipart-png-download-news18-network.png" group-title="INDIAN BANGLA ",News 18
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1442.m3u8
-#EXTINF:-1 tvg-id="abpananda.in" tvg-name="ABP Ananda" tvg-logo="https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/06/abp-ananda.png?fit=201%2C311&ssl=1" group-title="INDIAN BANGLA ",ABP Ananda
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1426.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY TV 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="HINDI CHANNELS",SONY TV 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/950.m3u8
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD" tvg-logo="https://1.bp.blogspot.com/-MiotI8iBMF8/XWrn7TU6SJI/AAAAAAAAwaY/RNd6Wr_eapM0o80TJZCEOguV625iEf44gCLcBGAs/s1600/Sony-Channel-logo-2019.png" group-title="HINDI CHANNELS",Sony TV HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1139.m3u8
-#EXTINF:-1 tvg-id="sonyentertainmenttelevisionasia.us" tvg-name="Sony USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="HINDI CHANNELS",Sony USA
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2659.m3u8
-#EXTINF:-1 tvg-id="starplushdplus1.in" tvg-name="Star Plus" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="HINDI CHANNELS",Star Plus
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1144.m3u8
-#EXTINF:-1 tvg-id="starplushdplus1.in" tvg-name="Star Plus 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="HINDI CHANNELS",Star Plus 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/591.m3u8
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat 4K" tvg-logo="https://lh3.googleusercontent.com/8MbdrbcuQsn5DSFjufxgSqQMfvuLPgkT6nHJiUu1kqRthYctoGQlYo2423R-B0c6GnM" group-title="HINDI CHANNELS",Star Bharat 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/593.m3u8
-#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg" group-title="HINDI CHANNELS",Colors
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1143.m3u8
-#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg" group-title="HINDI CHANNELS",Colors 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/605.m3u8
-#EXTINF:-1 tvg-id="aapkacolors.us" tvg-name="Aapka Colors HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest?cb=20191223200640" group-title="HINDI CHANNELS",Aapka Colors HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2661.m3u8
-#EXTINF:-1 tvg-id="zeetvhdplus1.in" tvg-name="Zee TV" tvg-logo="https://www.pngitem.com/pimgs/m/3-33418_zee-tv-zee-tv-logo-channel-hd-png.png" group-title="HINDI CHANNELS",Zee TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1448.m3u8
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI CHANNELS",Zee TV 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/603.m3u8
-#EXTINF:-1 tvg-id="zeetv.us" tvg-name="Zee TV HD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI CHANNELS",Zee TV HD USA
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1145.m3u8
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony SAB 4K" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="HINDI CHANNELS",Sony SAB 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="& TV 4K" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="HINDI CHANNELS",& TV 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/988.m3u8
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max 4K" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="HINDI CHANNELS",Sony Max 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/585.m3u8
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema 4K" tvg-logo="https://dl.dropbox.com/s/1na041c9beb46oq/zeecinema_hd.jpg" group-title="HINDI CHANNELS",Zee Cinema 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/598.m3u8
-#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="HINDI CHANNELS",Colors Cineplex 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1050.m3u8
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="HINDI CHANNELS",& Pictures HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/701.m3u8
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& Xplor 4K" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="HINDI CHANNELS",& Xplor 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/702.m3u8
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="HINDI CHANNELS",Star Gold HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/604.m3u8
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="HINDI CHANNELS",Star Gold Select 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/706.m3u8
-#EXTINF:-1 tvg-id="tataskybollywoodpremiere.in" tvg-name="Bollywood Premiere HD" tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_Premier_HD.png" group-title="HINDI CHANNELS",Bollywood Premiere HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/709.m3u8
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max 2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="HINDI CHANNELS",Sony Max 2
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="HINDI CHANNELS",MBC Bollywood
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2456.m3u8
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="ZEE Anmol Cinema " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee-anmol-cinema.jpg/revision/latest/scale-to-width-down/340?cb=20171015193443" group-title="HINDI CHANNELS",ZEE Anmol Cinema 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/613.m3u8
-#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeeclassic/channel_square/zeebollywood386_1261156083.png" group-title="HINDI CHANNELS",Zee Bollywood
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/606.m3u8
-#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://dl.dropbox.com/s/bek7wxr4hzdr01m/zeeaction.png" group-title="HINDI CHANNELS",Zee Action
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/584.m3u8
-#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://dl.dropbox.com/s/lf6coe3owjqyncu/zeeclassic.jpg" group-title="HINDI CHANNELS",Zee Classic
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/586.m3u8
-#EXTINF:-1 tvg-id="utvaction.in" tvg-name="UTV Action" tvg-logo="https://dl.dropbox.com/s/gunzqonthx73x9z/utvaction.jpg" group-title="HINDI CHANNELS",UTV Action
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/588.m3u8
-#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U Plus" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png" group-title="HINDI CHANNELS",B4U Plus
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1020.m3u8
-#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV India" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="HINDI CHANNELS",MTV India
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/710.m3u8
-#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="HINDI CHANNELS",MTV Beats HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1338.m3u8
-#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="HINDI CHANNELS",B4U Music
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/595.m3u8
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_music.jpg" group-title="HINDI CHANNELS",9XM
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/681.m3u8
-#EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://dl.dropbox.com/s/84fvyl636nv9o20/mastiii.jpg" group-title="HINDI CHANNELS",Mastiii
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="https://dl.dropbox.com/s/w3p0169nkqeprep/zeeanmol.jpg" group-title="HINDI CHANNELS",Zee Anmol
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png" group-title="HINDI CHANNELS",SONY PAL
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2633.m3u8
-#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="Aaj Tak" tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="HINDI CHANNELS",Aaj Tak
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/ZeeSmileLogo.jpg" group-title="HINDI CHANNELS",Zee Smile
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2466.m3u8
-#EXTINF:-1 tvg-id="ndtv24x7.in" tvg-name="NDTV 24x7 " tvg-logo="https://i.imgur.com/jVWp0K4.png" group-title="HINDI CHANNELS",NDTV 24x7 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI BANGLA",T Sports HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports BD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS CHANNELS",T Sports BD HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2628.m3u8
-#EXTINF:-1 tvg-id="sonysix.in" tvg-name="Sony Six " tvg-logo="https://image.winudf.com/v2/image/Y29tLm1tZ3RlY2h2aW5lLmxpdmVzb255c2l4dHZfc2NyZWVuXzBfMTUyOTQyNDE0Nl8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="SPORTS CHANNELS",Sony Six 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2641.m3u8
-#EXTINF:-1 tvg-id="sonysix.in" tvg-name="Sony Six HD" tvg-logo="https://image.winudf.com/v2/image/Y29tLm1tZ3RlY2h2aW5lLmxpdmVzb255c2l4dHZfc2NyZWVuXzBfMTUyOTQyNDE0Nl8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="SPORTS CHANNELS",Sony Six HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/614.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 4K" tvg-logo="" group-title="SPORTS CHANNELS",Sony Ten 1 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2651.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS CHANNELS",Sony Ten 2 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 4K" tvg-logo="https://i.pinimg.com/236x/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.jpg" group-title="SPORTS CHANNELS",Sony Ten 3 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2836.m3u8
-#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 4K" tvg-logo="https://bit.ly/3i0bJdQ" group-title="SPORTS CHANNELS",Star Sports 1 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/668.m3u8
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 4K" tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" group-title="SPORTS CHANNELS",Star Sports 2 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/650.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 4K" tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg" group-title="SPORTS CHANNELS",Star Sports Select 1 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/651.m3u8
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 4K" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png" group-title="SPORTS CHANNELS",Star Sports Select 2 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten Sports " tvg-logo="https://watchindia.net/images/channels/Ten_Sports.png" group-title="SPORTS CHANNELS",Ten Sports 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS CHANNELS",PTV Sports
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="https://image.roku.com/developer_channels/prod/43fc0882005fd51e2723351bfe9f23e8afba3962bd6f6c2283ebfdde15c3791c.png" group-title="SPORTS CHANNELS",Willow Cricket
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1149.m3u8
-#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow Cricket HD" tvg-logo="https://image.roku.com/developer_channels/prod/43fc0882005fd51e2723351bfe9f23e8afba3962bd6f6c2283ebfdde15c3791c.png" group-title="SPORTS CHANNELS",Willow Cricket HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Network" tvg-logo="https://www.clipartkey.com/mpngs/m/91-911374_wwe-logo-png-wwe-network-logo-png.png" group-title="SPORTS CHANNELS",WWE Network
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1" tvg-logo="https://cpng.pikpng.com/pngl/s/200-2005313_juventus-moderniza-escudo-para-2017-2018-bein-sport.png" group-title="SPORTS CHANNELS",Bein Sports 1
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="https://i.pinimg.com/originals/5f/ba/fd/5fbafd6ef30634b40077ef744652b9c6.png" group-title="SPORTS CHANNELS",Bein Sports 2 HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD UK" tvg-logo="https://archive.org/download/BtSport1Hd_201708/bt%20sport%201%20hd.png" group-title="SPORTS CHANNELS",BT Sport 1 HD UK
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png/revision/latest?cb=20150727151842" group-title="SPORTS CHANNELS",BT Sport ESPN HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2375.m3u8
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="FOX Sports 1 HD" tvg-logo="https://banner2.cleanpng.com/20180925/xho/kisspng-ver-fox-sports-1-en-vivo-televisin-hd-en-vivo-po-5ba9e284400d66.9928032315378602282624.jpg" group-title="SPORTS CHANNELS",FOX Sports 1 HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://cdn.imgbin.com/22/4/13/imgbin-fox-sports-1-ultimate-fighting-championship-fox-sports-2-speed-fox-sports-sun-maS40gAv0sRzRyDALX1ExQ9E2.jpg" group-title="SPORTS CHANNELS",Fox Sports 2
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2371.m3u8
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="SPORTS CHANNELS",ESPN
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/406.m3u8
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="SKY Sports Football" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png" group-title="SPORTS CHANNELS",SKY Sports Football
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Sports 1" tvg-logo="" group-title="SPORTS CHANNELS",Test Sports 1
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Sports 2" tvg-logo="" group-title="SPORTS CHANNELS",Test Sports 2
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Sports 3" tvg-logo="" group-title="SPORTS CHANNELS",Test Sports 3
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Sports 4" tvg-logo="" group-title="SPORTS CHANNELS",Test Sports 4
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Sports 5" tvg-logo="" group-title="SPORTS CHANNELS",Test Sports 5
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2530.m3u8
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-logo="http://watchindia.net/images/channels/usa/NFL_Network.png" group-title="SPORTS CHANNELS",NFL Network
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/414.m3u8
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/bIj/bIj_large.png" group-title="SPORTS CHANNELS",Tennis Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/422.m3u8
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="Star Movies 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIE CHANNELS",Star Movies 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/707.m3u8
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="MOVIE CHANNELS",Sony Pix HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/715.m3u8
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& FLIX HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="MOVIE CHANNELS",& FLIX HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="& Prive HD" tvg-logo="https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" group-title="MOVIE CHANNELS",& Prive HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIE CHANNELS",Fox Movies
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="MOVIE CHANNELS",MBC2
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="MOVIE CHANNELS",MBC Max
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2445.m3u8
-#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC US" tvg-logo="https://watchindia.net/images/channels/usa/AMC.png" group-title="MOVIE CHANNELS",AMC US
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/722.m3u8
-#EXTINF:-1 tvg-id="fx.us" tvg-name="FX" tvg-logo="https://watchindia.net/images/channels/usa/FX.png" group-title="MOVIE CHANNELS",FX
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1108.m3u8
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="SyFy" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="MOVIE CHANNELS",SyFy
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://watchindia.net/images/channels/usa/TNT.png" group-title="MOVIE CHANNELS",TNT
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2463.m3u8
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO" tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="MOVIE CHANNELS",HBO
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/372.m3u8
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema" tvg-logo="https://cpng.pikpng.com/pngl/s/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png" group-title="MOVIE CHANNELS",Starz Cinema
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/990.m3u8
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=78319568" group-title="MOVIE CHANNELS",Showtime HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/373.m3u8
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax HD" tvg-logo="https://www.pngfind.com/pngs/m/204-2047747_cinemax-logo-hd-png-download.png" group-title="MOVIE CHANNELS",Cinemax HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Movie Channel " tvg-logo="" group-title="MOVIE CHANNELS",Test Movie Channel 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Movie Channel 1" tvg-logo="" group-title="MOVIE CHANNELS",Test Movie Channel 1
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Movie Channel 2" tvg-logo="" group-title="MOVIE CHANNELS",Test Movie Channel 2
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Movie Channel 3" tvg-logo="" group-title="MOVIE CHANNELS",Test Movie Channel 3
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Movie Channel 4" tvg-logo="" group-title="MOVIE CHANNELS",Test Movie Channel 4
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Test Movie Channel 5" tvg-logo="" group-title="MOVIE CHANNELS",Test Movie Channel 5
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2535.m3u8
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png" group-title="MOVIE CHANNELS",Hallmark Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="MOVIE CHANNELS",TCM
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2748.m3u8
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="Lifetime Movie Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1200px-LMN_logo_2019.svg.png" group-title="MOVIE CHANNELS",Lifetime Movie Network HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/IFC_2018_logo.svg" group-title="MOVIE CHANNELS",IFC
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="MOVIE CHANNELS",AXN
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2453.m3u8
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet HD" tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png" group-title=" DOCUMENTARIES",Animal Planet HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/387.m3u8
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title=" DOCUMENTARIES",National Geographic
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/393.m3u8
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="Nat Geo Wild (Hindi)" tvg-logo="http://watchindia.net/images/channels/usa/NAT_GEO_Wild.png" group-title="HINDI CHANNELS",Nat Geo Wild (Hindi)
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/691.m3u8
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="Sony BBC Earth 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_BBC_Earth_HD.png" group-title=" DOCUMENTARIES",Sony BBC Earth 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/714.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" group-title=" DOCUMENTARIES",Discovery Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP India" tvg-logo="http://www.3visiondistribution.com/uploads/images/travelxp_logo.png" group-title=" DOCUMENTARIES",Travel XP India
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title=" DOCUMENTARIES",Animal Planet India
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth ( Hindi ) " tvg-logo="https://watchindia.net/images/channels/hindi/Sony_BBC_Earth_HD.png" group-title="HINDI CHANNELS",Sony BBC Earth ( Hindi ) 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel ( Hindi )" tvg-logo="" group-title="HINDI CHANNELS",Discovery Channel ( Hindi )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title=" DOCUMENTARIES",Nat Geo Wild
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="FAMILY CHANNELS",Warner
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title=" DOCUMENTARIES",Love Nature
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/dBmaKIP.png" group-title=" DOCUMENTARIES",Outdoor Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2468.m3u8
-#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="Travel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title=" DOCUMENTARIES",Travel TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="FAMILY CHANNELS",NatGeo People
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet ( Hindi )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="HINDI CHANNELS",Animal Planet ( Hindi )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2458.m3u8
-#EXTINF:-1 tvg-id="discoveryscience.in" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title=" DOCUMENTARIES",Discovery Science
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery India" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d3/Discovery_Showcase_HD.png/revision/latest?cb=20141202144613" group-title=" DOCUMENTARIES",Discovery India
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2451.m3u8
-#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us_hd.jpg" group-title="FAMILY CHANNELS",TLC HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL.png" group-title="ISLAMIC CHANNELS",Makkah Live
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ahlu Al Quran TV " tvg-logo="https://www.ahlu.tv/uploads/logo.png" group-title="ISLAMIC CHANNELS",Ahlu Al Quran TV 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="NEWS CHANNELS",The Weather Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/339.m3u8
-#EXTINF:-1 tvg-id="rtrussiainternational.us" tvg-name="RT English" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rt_english.jpg" group-title="NEWS CHANNELS",RT English
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="https://img.favpng.com/18/17/18/al-jazeera-english-television-channel-doha-png-favpng-KwqFnxGnxPXEsnYJrppmJtkWa.jpg" group-title="NEWS CHANNELS",Al Jazeera English
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/349.m3u8
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="NEWS CHANNELS",Fox News Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/350.m3u8
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg" group-title="NEWS CHANNELS",BBC America
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/351.m3u8
-#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC News" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_world_news/service-5742221a20.svg" group-title="NEWS CHANNELS",BBC News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="NEWS CHANNELS",CNN International
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/353.m3u8
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN 4K" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="NEWS CHANNELS",CNN 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IQRAA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="ISLAMIC CHANNELS",IQRAA
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/MTA-logo.gif/200px-MTA-logo.gif" group-title="ISLAMIC CHANNELS",MTA
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eman Channel" tvg-logo="https://bit.ly/3btifZ9" group-title="ISLAMIC CHANNELS",Eman Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ahlulbayt TV" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="ISLAMIC CHANNELS",Ahlulbayt TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/362.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS CHANNELS",Cartoon Network
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/382.m3u8
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://cdn.dribbble.com/users/339904/screenshots/2126554/nickjr-logo.png" group-title="KIDS CHANNELS",Nicktoons
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/383.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/QqLoAs7.png" group-title="KIDS CHANNELS",Nickelodeon HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/388.m3u8
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="Disney Jr" tvg-logo="https://watchindia.net/images/channels/kids/Disney_Junior.png" group-title="KIDS CHANNELS",Disney Jr
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/391.m3u8
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="History" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_europe.jpg" group-title=" DOCUMENTARIES",History
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="ENGLISH MUSIC & FASHION",MTV HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 90's" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Mtv-90s_logo.svg/revision/latest/scale-to-width-down/340?cb=20201006042600" group-title="ENGLISH MUSIC & FASHION",MTV 90's
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion & Lifestyle HD" tvg-logo="https://s0.ollcdn.net/i/8e/7d/9e/8e7d9e537x295-hd-fashion-lifestyle.jpg" group-title="ENGLISH MUSIC & FASHION",Fashion & Lifestyle HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kay 2" tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="PAKISTANI CHANNELS",Kay 2
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUM TV" tvg-logo="https://mettisglobal.news/wp-content/uploads/2018/12/IMG2597hum-tv-logo-696x348.png" group-title="PAKISTANI CHANNELS",HUM TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARY Digital" tvg-logo="https://i.imgur.com/QEOWyUl.png" group-title="PAKISTANI CHANNELS",ARY Digital
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel S ( U K )" tvg-logo="https://i.imgur.com/KprKWqp.png" group-title="প্রবাসী বাংলা চ্যানেল",Channel S ( U K )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/499.m3u8
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central" tvg-logo="https://www.pngitem.com/pimgs/m/29-295784_comedy-central-hd-png-download.png" group-title="FAMILY CHANNELS",Comedy Central
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kantipur TV" tvg-logo="http://jcss-cdn.ekantipur.com//kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Plus " tvg-logo="https://www.kindpng.com/picc/m/376-3765470_aplus-plus-tv-logo-png-transparent-png.png" group-title="PAKISTANI CHANNELS",A Plus 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bol Entertainment " tvg-logo="https://awamiweb.com/wp-content/uploads/2018/12/bol-entertainment-logo.jpg" group-title="PAKISTANI CHANNELS",Bol Entertainment 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/717.m3u8
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel " tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png" group-title="KIDS CHANNELS",Disney Channel 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hit 10 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="ENGLISH MUSIC & FASHION",Hit 10 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/723.m3u8
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC 4K" tvg-logo="https://petergeorgescu.com/wp-content/uploads/2019/10/msnbc-logo-png-1920.png" group-title="NEWS CHANNELS",MSNBC 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Khyber News" tvg-logo="https://khybernews.tv/wp-content/uploads/2018/08/logo-khybernews.png" group-title="PAKISTANI CHANNELS",Khyber News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Geo Super HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Geo_Super_Old.png/revision/latest?cb=20111001230224" group-title="PAKISTANI CHANNELS",Geo Super HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ary Zindagi" tvg-logo="https://play-lh.googleusercontent.com/OfBAdFzmQbxcIK2zMIre26g1LDUQyIfvHaHYhETDiFCSHxZa8C4yIG4iWRuw0riJM9E" group-title="PAKISTANI CHANNELS",Ary Zindagi
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="92 News HD" tvg-logo="https://banner2.cleanpng.com/20180612/sxc/kisspng-92-news-hd-plus-geo-news-news-broadcasting-live-stream-5b1fe9413fa542.7946944715288179852607.jpg" group-title="PAKISTANI CHANNELS",92 News HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/938.m3u8
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN HD" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="NEWS CHANNELS",CNN HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GEO Kahani" tvg-logo="https://p7.hiclipart.com/preview/660/764/38/pakistan-geo-tv-geo-news-television-channel-ten.jpg" group-title="PAKISTANI CHANNELS",GEO Kahani
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTA World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Mta_1_int.png" group-title="ISLAMIC CHANNELS",MTA World
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1044px-MTV_Hits_2017_logo.svg.png" group-title="ENGLISH MUSIC & FASHION",MTV Hits
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1017.m3u8
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="KIDS CHANNELS",Disney XD HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abbtakk News" tvg-logo="https://play-lh.googleusercontent.com/ss634dTdIuad84l5-xLBlN74yBY87ZHqSWFUogeq_mugo-tnxeWsZ_SXlJdjHYI6j1BE" group-title="PAKISTANI CHANNELS",Abbtakk News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1019.m3u8
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="Disney Jr HD" tvg-logo="" group-title="KIDS CHANNELS",Disney Jr HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1028.m3u8
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="NICK Jr" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_br.jpg" group-title="KIDS CHANNELS",NICK Jr
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Express Entertainment " tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngoW4vFQgA-0cguzFgbUr_VwPsAyymhpvyjN4IJOg=s900-c-k-c0x00ffffff-no-rj" group-title="PAKISTANI CHANNELS",Express Entertainment 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Urdu 1" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhmtnqvKRgtMr4bW_0HHnsk0DMLaruuBMWsCg8Thw=s900-c-k-c0x00ffffff-no-rj" group-title="PAKISTANI CHANNELS",Urdu 1
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC " tvg-logo="https://cdn.mmaweekly.com/wp-content/uploads/2015/07/UFC-New-Logo-2015.png" group-title="SPORTS CHANNELS",UFC 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://i.pinimg.com/originals/30/65/67/306567fdb402b6a05e290c4d64dd9f19.jpg" group-title="PAKISTANI CHANNELS",ATV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Awaz TV" tvg-logo="https://www.journalismpakistan.com/news/pemra-warns-awaz-tv.jpg" group-title="PAKISTANI CHANNELS",Awaz TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="City 42" tvg-logo="https://www.city42.tv/uploads/theme/logo-1553667665.png" group-title="PAKISTANI CHANNELS",City 42
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GEO News" tvg-logo="https://i.pinimg.com/originals/ac/5f/a7/ac5fa7237dfa4f8c443949102754f90e.png" group-title="PAKISTANI CHANNELS",GEO News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARY News" tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAKISTANI CHANNELS",ARY News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Express News" tvg-logo="https://banner2.cleanpng.com/20180425/aeq/kisspng-express-news-pakistan-daily-express-92-news-5ae08458d89ef4.9939687315246633848873.jpg" group-title="PAKISTANI CHANNELS",Express News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1077.m3u8
-#EXTINF:-1 tvg-id="musicindia.in" tvg-name="Music India" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="HINDI CHANNELS",Music India
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1082.m3u8
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network" tvg-logo="http://watchindia.net/images/channels/usa/Food_Network.png" group-title="FAMILY CHANNELS",Food Network
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1084.m3u8
-#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="Horror Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/The_HORRO%D0%AF_Channel.png/revision/latest?cb=20100401091116" group-title="MOVIE CHANNELS",Horror Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo_400x400.jpeg" group-title="ENGLISH MUSIC & FASHION",Channel V
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1090.m3u8
-#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="MSG HD" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/06/msg-new-logo.jpg" group-title="SPORTS CHANNELS",MSG HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1094.m3u8
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD" tvg-logo="http://watchindia.net/images/channels/usa/CNBC.png" group-title="NEWS CHANNELS",CNBC HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1099.m3u8
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="http://watchindia.net/images/channels/usa/HGTV.png" group-title="FAMILY CHANNELS",HGTV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1106.m3u8
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="http://watchindia.net/images/channels/usa/VH1.png" group-title="MOVIE CHANNELS",VH1
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1110.m3u8
-#EXTINF:-1 tvg-id="cbseastern.us" tvg-name="CBSN ( New York )" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cbs-logo-png-transparent.png" group-title="NEWS CHANNELS",CBSN ( New York )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV Urdu" tvg-logo="https://i.pinimg.com/474x/50/63/2d/50632d49b63bbed36d1c32fc245c38c8.jpg" group-title="ISLAMIC CHANNELS",Peace TV Urdu
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV English" tvg-logo="https://bit.ly/3gZve61" group-title="ISLAMIC CHANNELS",Peace TV English
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2047.m3u8
-#EXTINF:-1 tvg-id="euronews.uk" tvg-name="Euro News" tvg-logo="https://www.pikpng.com/pngl/m/197-1979615_1000-x-463-6-euro-news-channel-logo.png" group-title="NEWS CHANNELS",Euro News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2062.m3u8
-#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="Yes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="SPORTS CHANNELS",Yes Network
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="R Plus" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-r-plus-news-9087.jpg" group-title="INDIAN BANGLA ",R Plus
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://www.clipartmax.com/png/middle/23-233552_abc-news-logo-vector.png" group-title="NEWS CHANNELS",ABC News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GEO Entertainment" tvg-logo="https://lh3.googleusercontent.com/bS7CCJTsNdNwANvBbk5x2ekyMilOc1oToCrcTQ-bJNmDNNUMVKjpxB5YDm6ZbaSwZg" group-title="PAKISTANI CHANNELS",GEO Entertainment
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV  News" tvg-logo="https://i.vimeocdn.com/portrait/11750117_640x640" group-title="PAKISTANI CHANNELS",PTV  News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2228.m3u8
-#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://watchindia.net/images/channels/hindi/ABP_News.png" group-title="HINDI CHANNELS",ABP News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2286.m3u8
-#EXTINF:-1 tvg-id="republictv.in" tvg-name="Republic TV News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Republic_TV.png/revision/latest?cb=20190201140920" group-title="HINDI CHANNELS",Republic TV News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="NEWS CHANNELS",DW English
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/346.m3u8
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="Peppa Pig" tvg-logo="https://watchindia.net/images/channels/kids/Peppa_Pig.png" group-title="KIDS CHANNELS",Peppa Pig
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg/revision/latest?cb=20170101174915" group-title="NEWS CHANNELS",CGTN
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids (India)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/330px-2016_Discovery_Kids_logo.svg.png" group-title="HINDI CHANNELS",Discovery Kids (India)
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUM Masala" tvg-logo="https://www.logolynx.com/images/logolynx/s_dc/dc9c24d93b633901675585d93035fe4a.png" group-title="PAKISTANI CHANNELS",HUM Masala
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2655.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Makkah TV " tvg-logo="" group-title="ISLAMIC CHANNELS",Makkah TV 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Horror ch+1" tvg-logo="https://p.kindpng.com/picc/s/19-195304_name-horror-creppy-picsart-horror-name-png-transparent.png" group-title="MOVIE CHANNELS",Horror ch+1
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD ( Hindi )" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us_hd.jpg" group-title="HINDI CHANNELS",TLC HD ( Hindi )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vh1 Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="ENGLISH MUSIC & FASHION",Vh1 Europe
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Block Party" tvg-logo="https://i.pinimg.com/originals/f9/1f/c0/f91fc02f8ff9ea5eddceef8d200284ee.jpg" group-title="ENGLISH MUSIC & FASHION",MTV Block Party
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv_mtv.png?fit=clip&w=500&h=500&crop=faces&q=60" group-title="ENGLISH MUSIC & FASHION",MTV Biggest Pop
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M TV" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text.png" group-title="ENGLISH MUSIC & FASHION",M TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2600.m3u8
-#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E Network" tvg-logo="http://watchindia.net/images/channels/usa/A&E.png" group-title=" DOCUMENTARIES",A&E Network
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NASA Media TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title=" DOCUMENTARIES",NASA Media TV 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2597.m3u8
-#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="NASA TV" tvg-logo="http://clipart-library.com/images/8TAb9LgGc.jpg" group-title=" DOCUMENTARIES",NASA TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2596.m3u8
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Destination_America_logo_2017.png" group-title="FAMILY CHANNELS",DESTINATION AMERICA
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Yay ( Hindi )" tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="HINDI CHANNELS",Sony Yay ( Hindi )
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/330px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS CHANNELS",Discovery Kids India
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" group-title="ENGLISH MUSIC & FASHION",CMC TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="ENGLISH MUSIC & FASHION",VH1 Italy
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nepal 1 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1IrbQRnBA5TuHhWKe2NscX-7p2xKcR5rRfyjelqyfk9j3BTfXPYBjiF5OYBsj8SMmHM&usqp=CAU" group-title="NEPALI CHANNELS",Nepal 1 TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Image Channel" tvg-logo="https://i0.wp.com/kumarkhadka.com.np/wp-content/uploads/2017/05/Image-Channel.jpg?fit=800%2C600" group-title="NEPALI CHANNELS",Image Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="92 news" tvg-logo="https://banner2.cleanpng.com/20180612/sxc/kisspng-92-news-hd-plus-geo-news-news-broadcasting-live-stream-5b1fe9413fa542.7946944715288179852607.jpg" group-title="PAKISTANI CHANNELS",92 news
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Today" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600005209362/H34Wno0rDdZGWrE2uCf3COYcgXyk94iDDqy42QJ027FO3yvIuZ_q--s2-3XFBNBbNUA=s300?v=1" group-title="NEPALI CHANNELS",TV Today
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nepal Television" tvg-logo="https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2015/others/20150111ntvs-recruitment-process-not-transparent-fnj.jpg&w=900&height=601" group-title="NEPALI CHANNELS",Nepal Television
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mountain TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Mountaintvlogo.png" group-title="NEPALI CHANNELS",Mountain TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Avenues TV" tvg-logo="https://e7.pngegg.com/pngimages/542/667/png-clipart-nepal-television-channel-avenues-television-digital-television-others-television-text.png" group-title="NEPALI CHANNELS",Avenues TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Janata TV" tvg-logo="http://www.janatanetwork.com/wp-content/uploads/2020/02/jtv-logo.png" group-title="NEPALI CHANNELS",Janata TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV National HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/NTV_Nepal.png" group-title="NEPALI CHANNELS",NTV National HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Himalaya TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Himalaya_TV.png/revision/latest?cb=20200228130225" group-title="NEPALI CHANNELS",Himalaya TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AP1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png" group-title="NEPALI CHANNELS",AP1 HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24 Nepal" tvg-logo="https://w1.pngwing.com/pngs/872/719/png-transparent-tv-nepal-news-24-television-television-channel-nepal-television-live-television-streaming-television.png" group-title="NEPALI CHANNELS",News 24 Nepal
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV Plus FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/NTV_Plus_logo.svg/1200px-NTV_Plus_logo.svg.png" group-title="NEPALI CHANNELS",NTV Plus FHD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="MOVIE CHANNELS",Hollywood HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="MOVIE CHANNELS",MBC Action
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VIVA_Logo_blue-yellow.svg/779px-VIVA_Logo_blue-yellow.svg.png" group-title="ENGLISH MUSIC & FASHION",VIVA
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIE CHANNELS",Thrill
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="MOVIE CHANNELS",Dubai One
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2452.m3u8
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="Zee Cafe" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/11/12/zeeeeee.jpg?itok=CmIfTNh1" group-title="FAMILY CHANNELS",Zee Cafe
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retro TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="ENGLISH MUSIC & FASHION",Retro TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mtv Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="ENGLISH MUSIC & FASHION",Mtv Live
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2441.m3u8
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png" group-title=" DOCUMENTARIES",History 18
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2440.m3u8
-#EXTINF:-1 tvg-id="hbohd.in" tvg-name="HBO Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="MOVIE CHANNELS",HBO Asia
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TvOne_logo_%282008%29.svg/revision/latest?cb=20181207020439" group-title="PAKISTANI CHANNELS",TV One
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="8XM" tvg-logo="https://www.vhv.rs/dpng/d/488-4888540_8xm-logo-png-transparent-png.png" group-title="PAKISTANI CHANNELS",8XM
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmazia" tvg-logo="https://banner2.cleanpng.com/20180807/oup/kisspng-filmazia-television-channel-osn-streaming-televisi-watch-online-movies-watch-online-movies-channels-5b6a5806066be2.4503649415336960060263.jpg" group-title="PAKISTANI CHANNELS",Filmazia
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azan TV" tvg-logo="https://pbs.twimg.com/profile_images/611586119/az_400x400.jpg" group-title="ISLAMIC CHANNELS",Azan TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV One UK" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGHtEPwruT4WQ/company-logo_200_200/0/1592927585500?e=2159024400&v=beta&t=8PZpmkREe9fLbx71KlHY6i2pa4rZO9_sS95AV4YyEwc" group-title="ISLAMIC CHANNELS",TV One UK
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="ISLAMIC CHANNELS",Peace TV Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY9 TV" tvg-logo="https://www.kindpng.com/picc/m/177-1775592_my-9-tv-logo-hd-png-download.png" group-title="NEWS CHANNELS",MY9 TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hum Sitaray" tvg-logo="https://img.favpng.com/7/25/2/pakistan-hum-tv-hum-sitaray-television-channel-png-favpng-d6aMRQiJJ4KCi9JqBf8enj21Z.jpg" group-title="PAKISTANI CHANNELS",Hum Sitaray
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film World" tvg-logo="https://d2z8tu1vzs7ho7.cloudfront.net/wp-content/uploads/2020/02/06155918/Film-WORLD.jpg" group-title="PAKISTANI CHANNELS",Film World
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IQRA Bangla" tvg-logo="https://4.bp.blogspot.com/-K2QMJuh7t9I/W7hN5DR_s7I/AAAAAAAACkk/HpN6-nET6-UxyKg_9JMH3NFpgjzJLZCCQCLcBGAs/w1200-h630-p-k-no-nu/iqra-bangla-uk.png" group-title="ISLAMIC CHANNELS",IQRA Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madina Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS",Madina Live
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wow!! kids US" tvg-logo="https://i.imgur.com/AWXw9LW.jpg" group-title="KIDS CHANNELS",Wow!! kids US
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apna Channel" tvg-logo="https://www.voice.pk/wp-content/uploads/Apna-Channel-Live-Online-Logo.png" group-title="PAKISTANI CHANNELS",Apna Channel
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/985.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",T Sports
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="BANGLA", Gazi TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/102.m3u8
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA",DEEPTO TV HD
+http://content.hoihulloor.com/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BANGLA",ATN BANGLA
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BANGLA",BANGLA VISION
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",EKATTOR TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/11.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="BANGLA",JAMUNA TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/13.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BANGLA",RTV HD
+http://content.hoihulloor.com/rtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BANGLA",SA TV HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/15.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BANGLA",ANANDA TV HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/16.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="BANGLA",SOMOY TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/17.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="BANGLA",NEWS 24 HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/18.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="BANGLA",CHANNEL 9 HD
+http://content.hoihulloor.com/channel9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/19.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BANGLA",ATN NEWS
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/49.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="BANGLA",MOHONA TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/50.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA",MAASRANGA TV HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/51.m3u8
+#EXTINF:-1 tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/53.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/images/ntv-facebook.jpg" group-title="BANGLA",NTV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/54.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BANGLA",MY TV HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/56.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="MUSIC",Gaan Bangla
+http://content.hoihulloor.com/gaanbd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.daily-bangladesh.com/media/imgAll/2018January/SM/-180301114254." group-title="BANGLA",Nagorik TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/59.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BANGLA",BOISHAKHI TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/61.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/225px-Asian_TV_Logo.svg.png" group-title="BANGLA",Asian TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/62.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg" group-title="RELIGIOUS",ATN Islamic TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/63.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BANGLA",EKUSHEY TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/65.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="DOCUMENTARY",National Geographic
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/35.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/43.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA",Zee Bangla Cinema
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/29.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/30.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="INDIAN BANGLA",Jalsha Movies HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/31.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="INDIAN BANGLA",Sony Aath
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/33.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/34.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/66.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/82.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/96.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkdmwSV/images.jpg" group-title="MUSIC",9x Jalwa
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/98.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/3af0b698521323.Y3JvcCwxMDA3LDc4OCwxOTQsMA.jpg" group-title="MUSIC",9x Jhakaas
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/99.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVJfMKRvghWP1ibjmaTUyx3POPieBt057RJes6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",MUSIC MASTI
+http://content.hoihulloor.com/9xm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9xm-black.png" group-title="MUSIC",9xM
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/48.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="HINDI",& TV 
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/74.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/76.m3u8
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="HINDI",Colors Cineplex
+http://content.hoihulloor.com/colorscineplex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/67.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="HINDI",Colors 
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/68.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/03/21/image001%284%29.jpg" group-title="HINDI",Zee Action
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/90.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="HINDI",Zee Bolywood
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/94.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLzmP3n/Screenshot-1.png" group-title="HINDI",BFlix Movies
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/97.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/100.m3u8
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/94983-zeeclassic1.jpg" group-title="HINDI",Zee Classic
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/46.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="HINDI",Sony Sab
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/36.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="HINDI",Sony Entertainment
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/38.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1167766326137372678/C5OYkzFD_400x400.jpg" group-title="HINDI",Zee TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/40.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="ENGLISH",Sony Pix
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/41.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="ENGLISH",& Flix
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/78.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/mo-macau-lotus-tv-3757.jpg" group-title="ENGLISH",Lotus
+http://content.hoihulloor.com/lotus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="ENGLISH",Star Movies
+http://content.hoihulloor.com/starmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(India)/AXN_(India)-Logo.wine.png" group-title="ENGLISH",AXN
+http://content.hoihulloor.com/axn/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="KIDS", Duronto TV
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="KIDS",Nick jr
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/55.m3u8
+#EXTINF:-1 tvg-logo="https://www.pxpng.com/public/uploads/preview/-11608029580r3jtkkmqtz.png" group-title="KIDS",Carton Network
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/79.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/20.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/21.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/22.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony SIX HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/24.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=2DsJ3WgX" group-title="SPORTS",Star Sports 1 HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/25.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpbGHPp/2021-05-12-11-51-26-removebg-preview.png" group-title="SPORTS",Star Sports 2
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/26.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="SPORTS",Star Sports Select 1 HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/27.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/28.m3u8
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS",Willow 
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/70.m3u8
+
