@@ -94,6 +94,8 @@ http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/48.m3u8
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/74.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/76.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max
+http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/77.m3u8
 #EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="HINDI",Colors Cineplex
 http://content.hoihulloor.com/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus
@@ -116,7 +118,8 @@ http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/36.m3u8
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/38.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1167766326137372678/C5OYkzFD_400x400.jpg" group-title="HINDI",Zee TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/40.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="HINDI",Colors 
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/colors/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="ENGLISH",Sony Pix
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/41.m3u8
