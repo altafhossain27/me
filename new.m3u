@@ -68,17 +68,17 @@ http://172.17.50.112/live/antbd1008/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA",Zee Bangla Cinema
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/29.m3u8
+http://edge.thunderbd.com:8081/roarzone/29/chunks.m3u8?nimblesessionid=6902037&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMSA5OjM3OjA5IEFNJmhhc2hfdmFsdWU9cHhaV1E2eHFCaVAvYW1PQWZPdTR1Zz09JnZhbGlkbWludXRlcz0yJmlkPTU=
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/30.m3u8
+http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=6902034&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMSA5OjM3OjA3IEFNJmhhc2hfdmFsdWU9SHk1WC9DMTRnQ1QvUW50Y0VRa09xQT09JnZhbGlkbWludXRlcz0yJmlkPTU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="INDIAN BANGLA",Jalsha Movies HD
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/31.m3u8
+http://edge.thunderbd.com:8081/roarzone/31/chunks.m3u8?nimblesessionid=6901872&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMSA5OjMzOjQzIEFNJmhhc2hfdmFsdWU9NXhZelNzNEltUXZycTQ2NDJBT2cvQT09JnZhbGlkbWludXRlcz0yJmlkPTU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="INDIAN BANGLA",Sony Aath
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/33.m3u8
+http://edge.thunderbd.com:8081/roarzone/33/chunks.m3u8?nimblesessionid=6902045&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMSA5OjM3OjE1IEFNJmhhc2hfdmFsdWU9N0UrQjU5WEF5M2Z1MEZuTkRYYXNRUT09JnZhbGlkbWludXRlcz0yJmlkPTU=
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/34.m3u8
+http://edge.thunderbd.com:8081/roarzone/34/chunks.m3u8?nimblesessionid=6902041&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMSA5OjM3OjExIEFNJmhhc2hfdmFsdWU9eFBUaE52VWZGcGlkcm9HYVI1WkxYdz09JnZhbGlkbWludXRlcz0yJmlkPTU=
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/66.m3u8
+http://edge.thunderbd.com:8081/roarzone/66/chunks.m3u8?nimblesessionid=6902301&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMSA5OjQzOjQyIEFNJmhhc2hfdmFsdWU9TkJQS3F1WEZDVVgvOVFDdFJmVTRoUT09JnZhbGlkbWludXRlcz0yJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/82.m3u8
