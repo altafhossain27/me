@@ -5,15 +5,15 @@ http://172.17.50.112/live/antbd1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="BANGLA", Gazi TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/102.m3u8
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA",DEEPTO TV HD
-http://content.hoihulloor.com/deepto/tracks-v1a1/mono.m3u8
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BANGLA",ATN BANGLA
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/2.m3u8
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BANGLA",BANGLA VISION
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/5.m3u8
+http://10.16.100.245/hindi/channeL24_1st0p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/7.m3u8
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",EKATTOR TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/11.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="BANGLA",JAMUNA TV
@@ -23,23 +23,27 @@ http://content.hoihulloor.com/rtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BANGLA",SA TV HD
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/15.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BANGLA",ANANDA TV HD
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/16.m3u8
+http://10.16.100.207:8082/sports/anand@tv_1stOp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="BANGLA",SOMOY TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/17.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="BANGLA",NEWS 24 HD
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/18.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="BANGLA",CHANNEL 9 HD
-http://content.hoihulloor.com/channel9/tracks-v1a1/mono.m3u8
+http://10.16.100.207:8082/sports/Channel9_1st0p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/19.m3u8
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",BIJOY TV HD
+http://10.16.100.245/hindi/de$htv_1st0p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BANGLA",ATN NEWS
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/49.m3u8
+http://10.16.100.245/hindi/atNnews_1st0p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="BANGLA",MOHONA TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/50.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA",MAASRANGA TV HD
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/51.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BANGLA",CHANNEL I HD
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
 #EXTINF:-1 tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/53.m3u8
+http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/images/ntv-facebook.jpg" group-title="BANGLA",NTV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/54.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BANGLA",MY TV HD
@@ -49,7 +53,7 @@ http://content.hoihulloor.com/gaanbd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.daily-bangladesh.com/media/imgAll/2018January/SM/-180301114254." group-title="BANGLA",Nagorik TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/59.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BANGLA",BOISHAKHI TV
-http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/61.m3u8
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/225px-Asian_TV_Logo.svg.png" group-title="BANGLA",Asian TV
 http://tvserver3.roarzone.info:25461/live/tvapp/roarzone/62.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg" group-title="RELIGIOUS",ATN Islamic TV
