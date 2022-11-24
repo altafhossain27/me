@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",T Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",Tofee
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",T Sports
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",GTV
+http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
